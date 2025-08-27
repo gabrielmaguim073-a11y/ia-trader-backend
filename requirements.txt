@@ -3,4 +3,4 @@ uvicorn
 pandas
 numpy
 scikit-learn
-python-dotenv
+python-dotenv.
